@@ -17,8 +17,8 @@ To write a python program to implement quick sort using the first element as piv
 ```
 
 Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by: PRASANA V
-Register Number: 212223040150
+Developed by: Vignesh M
+Register Number: 212223240176
 ```
 ```PY
 def quick_sort(alist, start , end):
